@@ -1,4 +1,4 @@
-## Simple Next.js Demo
+## Simple Next.js Demo for Server Side Rendering
 
 NextJS [Next.js simple Demo](https://nextjs.org/)
 
